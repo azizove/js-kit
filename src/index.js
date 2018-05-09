@@ -1,0 +1,1 @@
+console.log('https://github.com/azizove/js-kit.git');
